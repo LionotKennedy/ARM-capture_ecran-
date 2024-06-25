@@ -1,0 +1,33 @@
+1 et on va installer le service de gestion de bascumenet dans le Serveur DC pour que on peut deplace Hyper-v_1 et Hyper-v_2
+
+2 installation en cours
+
+3 on valider la configuration
+
+
+4-5 on va ajouter notre Serveur Hyper-v_1 et Hyper-v_2
+
+
+6 validation en cours 
+
+
+8 En fait, on va ajouter nouvelle cluster et on va le renomer "cluster" et on va ajouter aussi une adresse IP "192.168.2.10"
+
+
+9 Creation du cluster en cours
+
+10 Voila interface graphique de notre Cluster
+
+
+11 Voila tout les Roles
+
+
+12 Voila tout les Noeud qui sont connecter
+
+
+13 Voila notre Cluster belle bien la avec l'adresse IP "192.168.2.10"
+
+
+
+14 la on teste ping cluster.projetL3.eni, il repond bien
+

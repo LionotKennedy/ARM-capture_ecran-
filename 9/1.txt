@@ -1,0 +1,4 @@
+1 On va demarer le Hyper-v_2
+
+
+2 on ajoutant une adresse IP 

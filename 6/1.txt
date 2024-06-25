@@ -1,0 +1,31 @@
+1 On va mettre en ligne notre 1er hyper-v
+
+
+3 il mettre acces par le pont le reseau de meme pour celle de Serveur Domain Controller
+
+
+iSCSI est une partage de stockage en Reseaux c'est a dire mettre ledisk accessible en Reseaux
+
+mais avant tout ca il faut installer le iSCI dans notre Serveur Domain Controller
+
+
+4 on va ajouter de role iSCI 
+
+
+5 Mis en installation du iSCI
+
+
+6  Cet ici qu'on va creer notre espace de stockage
+
+
+7 Maintenant on va configurer notre Service Hyper-v_1
+
+
+8 on configurer notre adresse IP est:"192.168.2.4" et pour qu'il choix lier sur le Serveur DC on va ajouter dans DNS l'adresse IP de Serveur DC comme: "192.168.2.3" 
+
+
+
+9 pour integre notre domain directory "projetL3.eni"
+
+
+10 et maintenant on va redemarer notre Hyper-v_1 pour que le nom de l'ordinateur est appliquer

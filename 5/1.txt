@@ -1,0 +1,9 @@
+1 apres avoir redemarer notre serveur la nous avons bien notre nom de domain "PROJETL3"
+
+
+
+2 on bien installe notre serveurs DNS et AD DS
+
+
+
+3 ce ici qu'on peut creer notre utilisateur avec des unite d'organisation et cet ici qu'on trouver tout le machine qui joue le domain

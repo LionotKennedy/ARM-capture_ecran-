@@ -1,0 +1,16 @@
+1 On va ajouter une autre carte reseau sur le Hyper-v_1 pour avoir acces sur la Disk qui ce trouve dans le Serveur DC
+
+2  Et on va ajouter une adresse IP comme : 192.168.3.4
+
+
+
+3  et on a bien effectier un ping sur l'adresse IP de Serveur DC qui contient les deux disk "192.168.3.3" 
+
+
+4  nous avons mettre cible l'adresse IP de Serveur DC pour ajouter du connection en ces deux serveur et il affiche que la connexion et effectier avec succes 
+
+
+5  Et si on va y aller sur disk on trouve les 2 Disks qui sur trouve dans le Serveur DC c'est a dire qu'on bien effectier la communication, il ne reste que de mettre en ligne
+
+
+6 Du coup dans le serveur DC on vois bien que nous somme connect sur une Cible appeler "iscsi"

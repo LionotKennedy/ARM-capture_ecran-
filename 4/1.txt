@@ -1,0 +1,37 @@
+Apres avoir redemarrer le pc
+
+
+
+et maintenant on va installer le serveur AD DS
+
+tout le module qui va etre installer
+
+6 on a pas besoin de selection le le serveur DNS car il est integre dans le AD DS 
+
+
+7 lancement de l'installation du serveur AD DS
+
+
+8 voila nous avons belle et bien installer le AD DS
+
+
+
+9 Il faut ajouter nouvelle Foret c'est -a - dire ajouter le domain et je veut nommer "projetL3.eni"
+
+
+10 on notre mot de passe
+
+
+12 le Nom de la NetBIOS
+
+
+13 voila notre base de donne directory
+
+
+15 on a bien effectier la verification 
+
+
+16 installation en cours
+
+
+17 on a bien effectier installation et il va demarer le systeme

@@ -1,0 +1,41 @@
+
+1  voila notre gestion de cluster de basculement
+
+
+2  on va install notre Serveur de fichier sur le Hyper-v_1 et Hyper-v_2
+
+
+3  installation en cours
+
+
+4  on va ajouter de role du Serveur de Fichier a la Serveur DC
+
+
+5  on ajouter le nom de notre point acces client "Serveur_Fichier" et on ajoutant aussi un adresse IP "192.168.2.11"
+
+
+6  et la notre Serveur_Fichier il est belle et bien la
+
+
+7  et la on ping l'adresse IP "192.168.2.11" ou "Serveur_Fichier.projetL3.eni" qui ce trouve dans DC alors que nous sommes dans le Hyper-v_1
+
+
+8  on va ajouter de partage de fichier
+
+
+9  on va ajouter de nom du partage comme : "DONNEE UTILISATEUR"
+
+
+10 voila tout le droit utilisateur du Domain
+
+
+11  Tout le monde aurra un acces
+
+
+12  Et la notre partage ont ete creer
+
+
+13  Nous sommes entrainne creer nos map page du lecture
+
+
+14  LA nous avons fait Update a notre Strategie

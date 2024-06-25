@@ -1,0 +1,20 @@
+1 on va ajouter une autre carte reseaux(La 3eme carte reseaux) chacune de ces deux machine Hyper-v_1 et Hyper-v_2 qui va faire la communication entre deux Machine Hyper-v_1 et Hyper-v_2
+
+2 on va mettre 192.168.4.4 notre addresse IP pour Hyper-v_1
+
+
+2.2 et pour Hyper-v_2 on va mettre 192.168.4.5 notre addresse IP
+
+
+3 on teste le ping entre ce deux Machines est ca marcher
+
+
+4 et apres on va installer notre cluster de basculement sur le Hyper-v_1 et Hyper-v_2
+
+5 installation en cours
+
+6 installation effectier avec succes
+
+7 il faut redemarer nos deux machines pour que le role est appliquer
+
+8 Et la nous avons interface graphique de la Cluster de basculement

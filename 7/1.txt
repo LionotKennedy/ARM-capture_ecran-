@@ -1,0 +1,28 @@
+1 On ajouter deux partition dans le DC(Domain Controller)
+
+2 Voila nos deux partition et il faut mettre en ligne et creer une nouveau volume
+
+3 nous avos effectier le nouvelle volume  
+
+4 La nos deux partition est pres a utiliser
+
+5 Il faut ajouter une autre reseau pour partager le Disk
+
+
+6  en fait j'ai ajouter une Adresse IP a la 2eme carte reseau et il est: "192.168.3.3"
+
+
+6.6  et nous avons nos deux adresse IP
+
+
+7 et on va ajouter le nom de la machine qui aurra d'acces a notre disk en le nommer :"iSCSI"
+
+
+8 je veux ajouter le Adresse IP de Hyper-v_1 : 192.168.3.4  et je veux ajouter aussi le Adresse IP de Hyper-v_2 : 192.168.3.5
+
+
+9 voila le deux
+
+10 creation en cours
+
+11 nous avons nos deux disk mais sache que il n'a pas encore connect sur une autre machine

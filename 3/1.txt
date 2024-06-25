@@ -1,0 +1,9 @@
+Il important de mettre notre reseaux en "acces par le pont"
+
+il faut qu'on change le Nom de l'ordinateur
+
+Notre adresse IP est:192.168.2.3
+
+il faut activer le bureaux a distance 
+
+on va redemarrer le machibe pour que le nom de l'ordinateur  appliquer

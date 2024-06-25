@@ -1,0 +1,5 @@
+Nous avons 3 machines  virtuels
+
+1-Domain de controlleur
+2-Hyper-v 1 (node1)
+3-Hyper-v 2 (node2)
